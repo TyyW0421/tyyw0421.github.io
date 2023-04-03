@@ -34,6 +34,11 @@ a:hover {
   color: #BF55EC !important;
 }
 
+.navbar-icon {
+    height: 2rem; /* Set the height to match the height of the navigation bar */
+    margin-right: 0.5rem; /* Add some spacing between the icon and the text */
+}
+
 .navbar-brand .uil {
   font-size: 40px;
 }
