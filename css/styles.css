@@ -43,6 +43,12 @@ a:hover {
   font-size: 40px;
 }
 
+.myimage {
+    /* border: 5px solid #e6c4f5; */
+    border-radius: 20px;
+}
+  
+
 p {
   font-size: 18px;
   font-weight: 300;
