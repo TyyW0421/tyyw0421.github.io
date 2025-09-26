@@ -1,3 +1,3 @@
 # Tianyun's Personal Website
 
-<a href="https://tianyunwang0421.github.io">tianyunwang0421.github.io</a>
+<a href="https://tyyw0421.github.io">tyyw0421.github.io</a>
