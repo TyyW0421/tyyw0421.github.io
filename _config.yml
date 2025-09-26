@@ -1,1 +1,12 @@
 theme: jekyll-theme-leap-day
+
+# Navigation links
+nav-links:
+  - title: Portfolio
+    url: https://tianyunwang.wixsite.com/portfolio
+  - title: GitHub
+    url: https://github.com/TyyW0421
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/lydiawty/
+  - title: CV
+    url: https://github.com/TyyW0421/tyyw0421.github.io/blob/main/Tianyun_Wang_CV.pdf
